@@ -1,0 +1,57 @@
+.Op{
+    display: grid;
+    padding: 10px;
+    gap: 20px;
+    
+   grid-template-columns: repeat(2,1fr);
+    
+}
+.item1{
+    background-color: rgb(255, 255, 255);
+    border: solid red;
+    text-align: center;
+}
+.item2{
+    background-color: rgb(255, 255, 255);
+    border: solid red;
+    text-align: center;
+}
+.item3{
+    background-color: rgb(255, 255, 255);
+    border: solid red;
+    text-align: center;
+}
+.item4{
+    background-color: rgb(255, 255, 255);
+    border: solid red;
+    text-align: center;
+}
+.item5{
+    background-color: rgb(255, 255, 255);
+    border: solid red;
+    text-align: center;
+}
+.item6{
+    background-color: rgb(255, 255, 255);
+    border: solid red;
+    text-align: center;
+}
+
+.item7{
+    background-color: rgb(255, 255, 255);
+    border: solid red;
+    text-align: center;
+}
+
+.item8{
+    background-color: rgb(255, 255, 255);
+    border: solid red;
+    text-align: center;
+}
+
+.item9{
+    background-color: rgb(255, 255, 255);
+    border: solid red;
+    text-align: center;
+}
+

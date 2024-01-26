@@ -1,0 +1,12 @@
+.hi{
+    display: flex;
+    gap: 20px;
+   justify-content: space-evenly;
+    background-color: rgb(236, 232, 232);
+    list-style-type: none;
+    padding: 15px;
+}
+
+nav-link{
+    text-decoration: none;
+}
